@@ -24,14 +24,14 @@ Junior Frontend Developer building modern, responsive web applications with a fo
 
 ## 📂 Featured Project
 
-### 🛴 ScootArea — Electric Scooter Store
+### 🛴 Zoma — Chemical solutions Store
 > A full-featured e-commerce platform for electric scooters
 
 - 🌍 English / Georgian internationalization
 - 🛒 Cart with state management
 - 🗂️ Category filtering with dynamic routing
 - 🎨 Responsive design with Tailwind CSS
-- ⚡ Built with Next.js App Router + TypeScript
+- ⚡ Built with React Router + TypeScript
 
 ---
 
